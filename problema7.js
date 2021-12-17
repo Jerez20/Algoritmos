@@ -26,4 +26,3 @@ const fibonacci = (n) => {
 
 
 fibonacci(7);
-
