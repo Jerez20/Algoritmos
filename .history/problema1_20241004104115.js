@@ -2,7 +2,7 @@
  indique el número digitado */
 
  var num = 5;
- var name = "Jazael2";
+ var name = "Jazael";
  
  for (let i=0; i< num; ++i){
  
